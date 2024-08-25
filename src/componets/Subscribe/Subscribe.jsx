@@ -1,6 +1,6 @@
 import React from "react";
 import { FaBell } from "react-icons/fa";
-import BgImage from "../../assets/Banner3.png";
+import BgImage from "../../Assets/Banner3.png";
 import { motion } from "framer-motion";
 
 const bgStyle = {

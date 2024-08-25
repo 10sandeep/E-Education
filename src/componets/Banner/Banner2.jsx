@@ -1,5 +1,5 @@
 import React from "react";
-import BannerPng from "../../assets/banner2.png";
+import BannerPng from "../../Assets/banner2.png";
 import { motion } from "framer-motion";
 
 const Banner2 = () => {
