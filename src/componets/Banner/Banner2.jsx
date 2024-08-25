@@ -1,5 +1,5 @@
 import React from "react";
-import BannerPng from "../../Assets/banner2.png";
+import BannerPng from "../../Assets/Banner2.png";
 import { motion } from "framer-motion";
 
 const Banner2 = () => {
@@ -35,7 +35,7 @@ const Banner2 = () => {
             initial={{ opacity: 0, x: 50 }}
             whileInView={{ opacity: 1, x: 0 }}
             src={BannerPng}
-            alt=""
+            alt="Banner img"
             className="w-[350px] md:max-w-[450px] object-cover drop-shadow"
           />
         </div>
